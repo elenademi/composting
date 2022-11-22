@@ -8,7 +8,7 @@ text-align: center; padding: 1%; font-family: 'Franklin Gothic Medium', 'Arial N
 h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color:sienna;}
 
 section{float: left;  margin-left:2% ; margin-top:1%; padding-left: 1%; }
-.left{background-color: #F8F3B4; padding-right: 1%; width:95%;}
+.left{background-color: #F8F3B4; padding: 2%; width:95%;}
 table{border-style: double; border-color: #5DC410; padding: 2px; width:60%; margin-left: 2%;float:left; margin-top: 1%;}
 tr{text-align: center; }
 td{border-style: dotted; padding: 2px; border-color: #5DC410;}
