@@ -8,7 +8,7 @@ text-align: center; padding: 1%; font-family: 'Franklin Gothic Medium', 'Arial N
 h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color:sienna;}
 
 section{float: left;  margin-left:2% ; margin-top:1%; padding-left: 1%; }
-.left{background-color: #F8F3B4; padding-right: 1%; width:50%;}
+.left{background-color: #F8F3B4; padding-right: 1%; width:95%;}
 table{border-style: double; border-color: #5DC410; padding: 2px; width:60%; margin-left: 2%;float:left; margin-top: 1%;}
 tr{text-align: center; }
 td{border-style: dotted; padding: 2px; border-color: #5DC410;}
@@ -22,4 +22,5 @@ border-radius: 10%;}
 footer{display: block; margin-top: 5%; background-image: -moz-linear-gradient(#5DC410, #F8F3B4); background-image: -webkit-linear-gradient(#5DC410, #F8F3B4);
     text-align: center; padding: 2%; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: sienna;  }
 a{ color: #4da906; } 
-a:hover{color: #ac882c ;}   
+a:hover{color: #ac882c ;} 
+@media screen and (min-width: 1181px) {.left{background-color: #F8F3B4; padding-right: 1%; width:50%;}} 
