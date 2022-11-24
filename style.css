@@ -6,7 +6,8 @@ body{
 h1{background-image: -moz-linear-gradient(#5DC410, #F8F3B4); background-image: -webkit-linear-gradient(#5DC410, #F8F3B4);
 text-align: center; padding: 1%; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: sienna  ; }
 h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color:sienna;}
-p {font-size: 1em;}
+p {font-size: 1.25em;}
+@media screen and (max-width: 1180px) {p {font-size: 1 em;}}
 section{float: left;   margin-top:1%; padding-left: 2%; }
 .left{background-color: #F8F3B4; padding-right: 1%; width:95%;}
 #bigPic {display: flex;    justify-content: center;}
