@@ -10,7 +10,7 @@ h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; col
 p {font-size: 1 em; font-family: 'Verdana, Geneva, Tahoma, sans-serif';}
 
 section{float: left;   margin-top:1%; padding-left: 2%; }
-.left{background-color: #F8F3B4;  width:95%;}
+.left{background-color: #F8F3B4;  width:95%; padding:1%;}
 #bigPic {display: flex; justify-content: center;}
  table{border-style: double; border-color: #5DC410; padding: 2px; width:95%; margin-left: 2%;float:left; margin-top: 1%;}
 tr{text-align: center; }
@@ -27,7 +27,7 @@ footer{display: block; margin-top: 5%; background-image: -moz-linear-gradient(#5
 a{ color: #4da906; } 
 a:hover{color: #ac882c ;} 
 @media screen and (min-width: 1181px) {.left{background-color: #F8F3B4; padding-right: 1%; width:50%;}} 
-@media screen and (max-width: 1180px) {.bigPic {margin-left: auto; margin-right: auto; display: block; }}
+@media screen and (max-width: 1180px) {.bigPic {margin-left: auto; margin-right: 1%; display: block; width:90%; }}
 
    
 }
