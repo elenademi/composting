@@ -1,6 +1,6 @@
   
- .header-image{float:left; height:9.7vh; margin-top: 0.28vh; } 
-header{ height: 10vh;}
+ .header-image{float:left; height:9.7vh; margin-top: 0.55vh; } 
+h1{ height: 9.7vh;}
 body{
     display: table; font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
