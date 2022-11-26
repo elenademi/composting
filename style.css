@@ -10,9 +10,10 @@ h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; col
 p {font-size: 1 em; font-family: 'Verdana, Geneva, Tahoma, sans-serif';}
 
 section{float: left;   margin-top:1%; }
-.left{background-color: #F8F3B4;  width:95%; padding:2%;}
-#bigPic {display: flex; justify-content: center;}
- table{border-style: double; border-color: #5DC410; padding: 2px; width:95%; margin-left: 2%;float:left; margin-top: 2%;}
+.left{background-color: #F8F3B4;  width:95%; padding:2%; font-family: 'Verdana, Geneva, Tahoma, sans-serif';}
+@media screen and (max-width: 1180px) {#bigPic { display: block; width:95%; }}
+#bigPic {display: inline-block; margin-left:1%; }
+ table{border-style: double; border-color: #5DC410; padding: 2px; width:95%; margin-left:2%;float:left; margin-top: 2%;}
 tr{text-align: center; }
 td{border-style: dotted; padding: 2px; border-color: #5DC410;}
 .green{background-color: #a9f6a9; border-radius: 10%;}
@@ -26,8 +27,7 @@ footer{display: block; margin-top: 5%; background-image: -moz-linear-gradient(#5
     text-align: center; padding: 2%; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: sienna;  }
 a{ color: #4da906; } 
 a:hover{color: #ac882c ;} 
-@media screen and (min-width: 1181px) {.left{background-color: #F8F3B4; padding-right: 2%; width:50%;}} 
-@media screen and (max-width: 1180px) {#bigPic { display: block; width:90%; }}
+@media screen and (min-width: 1181px) {.left{background-color: #F8F3B4; padding-right: 2%; width:50%; font-family: 'Verdana, Geneva, Tahoma, sans-serif';}} 
 
    
 }
