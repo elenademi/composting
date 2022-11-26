@@ -1,5 +1,6 @@
   
  .header-image{float:left; height:9.7vh; margin-top: 0.28vh; } 
+header{ height: 10vh;}
 body{
     display: table; font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -13,7 +14,7 @@ p {font-size: 1.25 em; font-family: Verdana, Geneva, Tahoma, sans-serif;}
 section{float: left;   margin-top:1%; }
 .left{background-color: #F8F3B4;  width:95%; padding:2%; font-family: 'Verdana, Geneva, Tahoma, sans-serif'; font-size: 1.25 em;}
 @media screen and (max-width: 1180px) {#bigPic { display: block; width:95%; }}
-#bigPic {display: inline-block; margin-left:1%; margin-top:1%; }
+#bigPic {display: inline-block; margin-left:1%; margin-top:3%; }
  table{border-style: double; border-color: #5DC410; padding: 2px; width:95%; margin-left:1%; margin-right:1% ; float:left; margin-top: 2%;}
 tr{text-align: center; }
 td{border-style: dotted; padding: 2px; border-color: #5DC410;}
