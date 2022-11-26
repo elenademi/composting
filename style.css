@@ -29,7 +29,7 @@ footer{display: block; margin-top: 5%; background-image: -moz-linear-gradient(#5
 a{ color: #4da906; } 
 a:hover{color: #ac882c ;} 
 @media screen and (min-width: 1181px)
-{.left{background-color: #F8F3B4; padding-right: 2%; width:50%; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 1.25 em;}} 
+{.left{background-color: #F8F3B4; padding-right: 2%; width:50%; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 1 em; margin-right:2%; }} 
 
    
 
