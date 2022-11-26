@@ -12,7 +12,7 @@ p {font-size: 1 em; font-family: 'Verdana, Geneva, Tahoma, sans-serif';}
 section{float: left;   margin-top:1%; padding-left: 2%; }
 .left{background-color: #F8F3B4;  width:95%; padding:2%;}
 #bigPic {display: flex; justify-content: center;}
- table{border-style: double; border-color: #5DC410; padding: 2px; width:95%; margin-left: 2%;float:left; margin-top: 1%;}
+ table{border-style: double; border-color: #5DC410; padding: 2px; width:95%; margin-left: 2%;float:left; margin-top: 2%;}
 tr{text-align: center; }
 td{border-style: dotted; padding: 2px; border-color: #5DC410;}
 .green{background-color: #a9f6a9; border-radius: 10%;}
