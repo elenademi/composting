@@ -6,8 +6,9 @@ body{
 h1{background-image: -moz-linear-gradient(#5DC410, #F8F3B4); background-image: -webkit-linear-gradient(#5DC410, #F8F3B4);
 text-align: center; padding: 1%; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: sienna  ; }
 h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color:sienna;}
-@media screen and (max-width: 1180px) {p {font-size: 1.25 em; font-family: 'Verdana, Geneva, Tahoma, sans-serif';}}
-p {font-size: 1 em; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+p {font-size: 1.25 em; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+@media screen and (min-width: 1181px) {p {font-size: 1 em; font-family: Verdana, Geneva, Tahoma, sans-serif;}}
+
 
 section{float: left;   margin-top:1%; }
 .left{background-color: #F8F3B4;  width:95%; padding:2%; font-family: 'Verdana, Geneva, Tahoma, sans-serif';}
