@@ -27,7 +27,7 @@ footer{display: block; margin-top: 5%; background-image: -moz-linear-gradient(#5
 a{ color: #4da906; } 
 a:hover{color: #ac882c ;} 
 @media screen and (min-width: 1181px) {.left{background-color: #F8F3B4; padding-right: 2%; width:50%;}} 
-@media screen and (max-width: 1180px) {#bigPic {margin-left: auto; margin-right: 1%; display: block; width:90%; }}
+@media screen and (max-width: 1180px) {#bigPic { display: block; width:90%; }}
 
    
 }
