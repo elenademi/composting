@@ -23,7 +23,7 @@ td{border-style: dotted; padding: 2px; border-color: #5DC410;}
 .tips{float:left; width:80%; margin-left: 2%; margin-top: 2%;margin-right: 2%; margin-bottom:1%;padding-left: 5%; padding-bottom: 1%; background-image: -moz-radial-gradient(#b5f187, #F8F3B4);
     background-image: -o-linear-gradient(#b5F187, #F8F3B4); background-image: -webkit-linear-gradient(#b5F187, #F8F3B4);
 border-radius: 10%;}
-@media screen and (max-width: 1140px) {.tips {float:left; width:68%; margin-left: 1%; margin-top: 2%;margin-right: 2%; margin-bottom:1%;padding-left: 5%; padding-bottom: 1%; background-image: -moz-radial-gradient(#b5f187, #F8F3B4);
+@media screen and (max-width: 1140px) {.tips {float:left; width:65%; margin-left: 1%; margin-top: 2%;margin-right: 2%; margin-bottom:1%;padding-left: 5%; padding-bottom: 1%; background-image: -moz-radial-gradient(#b5f187, #F8F3B4);
     background-image: -o-linear-gradient(#b5F187, #F8F3B4); background-image: -webkit-linear-gradient(#b5F187, #F8F3B4);
 border-radius: 10%;}}
 #girl{float:left; margin-left: 2%;  margin-top: 7%;}
