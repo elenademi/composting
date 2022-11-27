@@ -23,10 +23,16 @@ td{border-style: dotted; padding: 2px; border-color: #5DC410;}
 .tips{float:left; width:80%; margin-left: 2%; margin-top: 2%;margin-right: 2%; margin-bottom:1%;padding-left: 5%; padding-bottom: 1%; background-image: -moz-radial-gradient(#b5f187, #F8F3B4);
     background-image: -o-linear-gradient(#b5F187, #F8F3B4); background-image: -webkit-linear-gradient(#b5F187, #F8F3B4);
 border-radius: 10%;}
+@media screen and (max-width: 1140px) {.tips {float:left; width:70%; margin-left: 2%; margin-top: 2%;margin-right: 2%; margin-bottom:1%;padding-left: 5%; padding-bottom: 1%; background-image: -moz-radial-gradient(#b5f187, #F8F3B4);
+    background-image: -o-linear-gradient(#b5F187, #F8F3B4); background-image: -webkit-linear-gradient(#b5F187, #F8F3B4);
+border-radius: 10%;}}
 #girl{float:left; margin-left: 2%;  margin-top: 7%;}
+@media screen and (max-width: 1140px) {#girl {margin-top: 1%; float:left; margin-left: 2%; }}
 #line{margin:0, auto; width:100%; }
 footer{display: block; margin-top: 5%; background-image: -moz-linear-gradient(#5DC410, #F8F3B4); background-image: -webkit-linear-gradient(#5DC410, #F8F3B4);
     text-align: center; padding: 2%; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: sienna;  }
+@media screen and (max-width:1140px) {footer {display:inline-block; width:100%; margin-top: 1%; background-image: -moz-linear-gradient(#5DC410, #F8F3B4); background-image: -webkit-linear-gradient(#5DC410, #F8F3B4);
+    text-align: center; padding: 2%; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: sienna;}}
 a{ color: #4da906; } 
 a:hover{color: #ac882c ;} 
 @media screen and (min-width: 1181px)
